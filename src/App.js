@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          I am making changes in a feature branch.
+          I am making changes in a feature branch after creating branch.
         </a>
       </header>
     </div>
